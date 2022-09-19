@@ -1,0 +1,29 @@
+h2 {
+  color: maroon;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.name {
+  font-size: 1rem;
+}
+.name span {
+  color: darkslategrey;
+}
+
+.edit {
+  background-color: blueviolet;
+  color: white;
+}
+.delete {
+  background-color: crimson;
+  color: white;
+}
+.email {
+  color: gray;
+}
+.phone {
+  color: lightslategray;
+}
+.left {
+  margin-right: 2rem;
+}
